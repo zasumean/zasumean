@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm Jasmine!
 
-<!--
-**JasmineBorse/JasmineBorse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩🏻‍💻About me: 
+I'm a final-year student at Vellore Institute of Technology, Chennai, currently focused on AI-ML, web development, and constantly learning new technologies to build impactful projects.
 
-Here are some ideas to get you started:
+🎯Current Focus: 
+Currently, I'm working on a Machine Learning project for a course in my curriculum . I'm always open to new opportunities and collaborations, so feel free to reach out if you'd like to work together!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐Connect with me:
+[Email](jasmineborse@gmail.com)
+[LinkedIn](www.linkedin.com/in/jasmine-borse-a340381b8)
+
+
+
+
+
+
+
